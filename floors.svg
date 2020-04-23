@@ -1,0 +1,475 @@
+ <a id="flr0" href="https://www.edisonvilla.hu/foldszinti-lakasok">
+    <div class="flplan img">
+
+        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca7c05971815d2240433d80_groundfloor.png" alt="">
+
+
+        <div class="mask">
+            
+            
+            <svg class="img-front" width="1000px" height="563px" viewBox="0 0 1000 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g>
+                        <text id="s003" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#25364B">
+                            <tspan x="632.322" y="182">SOLD</tspan>
+                        </text>
+                        <text id="s002" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#25364B">
+                            <tspan x="610.322" y="301">SOLD</tspan>
+                        </text>
+                        <text id="s001" font-family="AvenirNext-Bold, Avenir Next" font-size="18" font-weight="bold" fill="#25364B">
+                            <tspan x="630.322" y="393">SOLD</tspan>
+                        </text>
+                        <rect id="Rectangle-Copy" stroke="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="999" height="562"></rect>
+                    </g>
+                </g>
+            </svg>
+
+
+            <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca7c05971815d2240433d80_groundfloor.png" class="img-back" alt="">
+        </div>
+
+
+        <div class="traces">
+            
+            <!-- <svg width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g class="flat-traces" id="t_f0" fill-rule="nonzero">
+                        <polygon id="f003" fill-opacity="0.8" fill="#EA1E1E" points="636.960664 130.209061 636.960664 91 662.757282 91 701.378641 91 770 91 770 134.86122 740 134.86122 740 242 701.378641 242 662.757282 242 624.135922 242 584 242 584 166.5 584 130.209061"></polygon>
+                        <polygon id="f002" fill-opacity="0.8" fill="#EA1E1E" points="584 238 624.135922 238 662.757282 238 701.378641 238 740 238 740 266 740 294 740 350 701.378641 350 606.193065 350 600.177224 343.334637 584 343.334637 584 294 584 266"></polygon>
+                        <polygon id="f001" fill-opacity="0.8" fill="#EA1E1E" points="584 339.906738 601.977069 339.906738 609.515987 347.263955 723.951456 346 770 346 770 360.5 770 375 770 405 723.951456 405 695.088131 405 695.088131 431.091205 584 431.091205 584 375 584 360.5"></polygon>
+                        <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="999" height="562"></rect>
+                    </g>
+                </g>
+            </svg> -->
+
+            <svg width="1000px" height="563px" viewBox="0 0 1000 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g class="flat-traces" fill-rule="nonzero">
+                        <polygon id="f003" fill-opacity="0.8" fill="#EA1E1E" points="636.960664 130.209061 636.960664 91 662.757282 91 701.378641 91 770 91 770 134.86122 740 134.86122 740 242 701.378641 242 662.757282 242 624.135922 242 584 242 584 166.5 584 130.209061"></polygon>
+                        <polygon id="f002" fill-opacity="0.8" fill="#EA1E1E" points="584 238 624.135922 238 662.757282 238 701.378641 238 740 238 740 266 740 294 740 350 701.378641 350 606.193065 350 600.177224 343.334637 584 343.334637 584 294 584 266"></polygon>
+                        <polygon id="f001" fill-opacity="0.8" fill="#EA1E1E" points="584 339.906738 601.977069 339.906738 609.515987 347.263955 723.951456 346 770 346 770 360.5 770 375 770 405 723.951456 405 695.088131 405 695.088131 431.091205 584 431.091205 584 375 584 360.5"></polygon>
+                        <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="999" height="562"></rect>
+                    </g>
+                </g>
+            </svg>
+
+        </div>
+
+
+    </div>
+</a>
+
+
+
+
+<a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr1">
+
+    <div class="flplan img">
+
+        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bf608df1f3c18207f_floor1.png" alt="">
+
+
+        <div class="mask">
+
+
+            <svg class="img-front" width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g>
+                        <text id="s116" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="638.264" y="166">SOLD</tspan>
+                        </text>
+                        <text id="s115" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="623.264" y="244">SOLD</tspan>
+                        </text>
+                        <text id="s113" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="623.264" y="379">SOLD</tspan>
+                        </text>
+                        <text id="s112" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="623.264" y="443">SOLD</tspan>
+                        </text>
+                        <text id="s111" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="643.264" y="525">SOLD</tspan>
+                        </text>
+                        <text id="s101" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="357.264" y="461">SOLD</tspan>
+                        </text>
+                        <text id="s102" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="461.264" y="461">SOLD</tspan>
+                        </text>
+                        <text id="s104" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="461.264" y="209">SOLD</tspan>
+                        </text>
+                        <text id="s103" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="353.264" y="209">SOLD</tspan>
+                        </text>
+                        <text id="s110" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="223.264" y="159">SOLD</tspan>
+                        </text>
+                        <text id="s109" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="201.264" y="245">SOLD</tspan>
+                        </text>
+                        <text id="s108" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="201.264" y="315">SOLD</tspan>
+                        </text>
+                        <text id="s107" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="198.264" y="379">SOLD</tspan>
+                        </text>
+                        <text id="s106" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="198.264" y="442">SOLD</tspan>
+                        </text>
+                        <text id="s105" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="178.264" y="520">SOLD</tspan>
+                        </text>
+                        <text id="s114" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="623.264" y="309">SOLD</tspan>
+                        </text>
+                        <rect id="Rectangle" stroke="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="999" height="696"></rect>
+                    </g>
+                
+                </g>
+            </svg>
+            
+            <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bf608df1f3c18207f_floor1.png" class="img-back" alt="">
+        </div>
+
+
+        <div class="traces">
+            
+            <svg width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g class="flat-traces" id="t_f0" fill-rule="nonzero">
+                        <polygon id="f101" fill-opacity="0.8" fill="#EA1E1E" points="342 376 369.271845 376 395.514563 376 421.757282 376 448 376 448 412.5 448 449 448 522 421.757282 522 395.514563 522 369.271845 522 342 522 342 449 342 412.5"></polygon>
+                        <polygon id="f106" fill-opacity="0.8" fill="#EA1E1E" points="156 401 197.679612 401 237.786408 401 277.893204 401 318 401 318 419 318 437 318 473 277.893204 473 237.786408 473 197.679612 473 156 473 156 437 156 419"></polygon>
+                        <polygon id="f107" fill-opacity="0.8" fill="#EA1E1E" points="156 333 197.679612 333 237.786408 333 277.893204 333 318 333 318 351 318 369 318 405 277.893204 405 237.786408 405 197.679612 405 156 405 156 369 156 351"></polygon>
+                        <polygon id="f108" fill-opacity="0.8" fill="#EA1E1E" points="156 266 197.679612 266 237.786408 266 277.893204 266 318 266 318 284 318 302 318 338 277.893204 338 237.786408 338 197.679612 338 156 338 156 302 156 284"></polygon>
+                        <polygon id="f109" fill-opacity="0.8" fill="#EA1E1E" points="116 97 128.713592 97 138.475728 97 158.237864 97 184.10968 97 184.10968 199 318 199 318 271 268.237864 271 218.475728 271 156 271 156 206.782892 116 206.782892 116 140.5"></polygon>
+                        <polygon id="f102" fill-opacity="0.8" fill="#EA1E1E" points="444 376 471.271845 376 497.514563 376 523.757282 376 550 376 550 412.5 550 449 550 522 523.757282 522 497.514563 522 471.271845 522 444 522 444 449 444 412.5"></polygon>
+                        <polygon id="f103" fill-opacity="0.8" fill="#EA1E1E" points="342 137 369.271845 137 395.514563 137 421.757282 137 448 137 448 169.5 448 202 448 267 421.757282 267 395.514563 267 369.271845 267 342 267 342 202 342 169.5"></polygon>
+                        <polygon id="f110" fill-opacity="0.8" fill="#EA1E1E" points="178 97 221.480583 97 263.320388 97 305.160194 97 347 97 347 123.5 347 150 347 203 305.160194 203 263.320388 203 221.480583 203 178 203 178 150 178 123.5"></polygon>
+                        <polygon id="f115" fill-opacity="0.8" fill="#EA1E1E" points="574 199 619.796117 199 663.864078 199 707.932039 199 752 199 752 217 752 235 752 271 707.932039 271 663.864078 271 619.796117 271 574 271 574 235 574 217"></polygon>
+                        <polygon id="f116" fill-opacity="0.8" fill="#EA1E1E" points="574 97 633.432039 97 712.360893 97 711.600092 129.960006 805 129.960006 805 133.5 805 150 805 203 747.81068 203 690.621359 203 633.432039 203 574 203 574 150 574 123.5"></polygon>
+                        <polygon id="f114" fill-opacity="0.8" fill="#EA1E1E" points="574 266 619.796117 266 663.864078 266 707.932039 266 752 266 752 284 752 302 752 338 707.932039 338 663.864078 338 619.796117 338 574 338 574 302 574 284"></polygon>
+                        <polygon id="f113" fill-opacity="0.8" fill="#EA1E1E" points="574 334 619.796117 334 663.864078 334 707.932039 334 752 334 752 352 752 370 752 406 707.932039 406 663.864078 406 619.796117 406 574 406 574 370 574 352"></polygon>
+                        <polygon id="f111" fill-opacity="0.8" fill="#EA1E1E" points="574 460 595.430044 460 604.035231 469.200564 752 468 806 468 806 489 806 518 806 543.422118 779.658054 543.422118 712.398834 543.422118 712.398834 576 574 576 574 518 574 489"></polygon>
+                        <polygon id="f112" fill-opacity="0.8" fill="#EA1E1E" points="574 401 619.796117 401 663.864078 401 707.932039 401 752 401 752 419 752 437 752 473 707.932039 473 663.864078 473 601.141979 473 593.293203 465.024113 574 465 574 419"></polygon>
+                        <polygon id="f104" fill-opacity="0.8" fill="#EA1E1E" points="445 137 472.271845 137 498.514563 137 524.757282 137 551 137 551 169.5 551 202 551 267 524.757282 267 498.514563 267 472.271845 267 445 267 445 202 445 169.5"></polygon>
+                        <polygon id="f105" fill-opacity="0.8" fill="#EA1E1E" points="116 468 175.68932 468 233.126214 468 290.563107 468 348 468 348 495 348 522 348 576 290.563107 576 209.06505 576 209.06505 541.932286 116 541.932286 116 522 116 495"></polygon>
+                        <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="999" height="696"></rect>
+                    </g>
+                </g>
+            </svg>
+
+        </div>
+
+
+    </div>
+
+</a>
+
+
+<a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr2" class="active">
+    <div class="flplan img">
+
+        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb8284ea40898c9_floor2.png" alt="">
+
+
+        <div class="mask">
+            
+
+            <svg class="img-front" width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                
+                    <g>
+                        <text id="s210" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="271.264" y="154">SOLD</tspan>
+                        </text>
+                        <rect id="Rectangle" stroke="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="999" height="696"></rect>
+                        <text id="s209" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="261.264" y="234">SOLD</tspan>
+                        </text>
+                        <text id="s208" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="261.264" y="299">SOLD</tspan>
+                        </text>
+                        <text id="s207" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="261.264" y="368">SOLD</tspan>
+                        </text>
+                        <text id="s206" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="261.264" y="436">SOLD</tspan>
+                        </text>
+                        <text id="s205" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="271.264" y="513">SOLD</tspan>
+                        </text>
+                        <text id="s201" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="421.264" y="443">SOLD</tspan>
+                        </text>
+                        <text id="s202" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="521.264" y="443">SOLD</tspan>
+                        </text>
+                        <text id="s204" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="521.264" y="213">SOLD</tspan>
+                        </text>
+                        <text id="s203" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="421.264" y="213">SOLD</tspan>
+                        </text>
+                        <text id="s216" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="691.264" y="154">SOLD</tspan>
+                        </text>
+                        <text id="s215" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="681.264" y="234">SOLD</tspan>
+                        </text>
+                        <text id="s214" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="681.264" y="304">SOLD</tspan>
+                        </text>
+                        <text id="s213" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="681.264" y="368">SOLD</tspan>
+                        </text>
+                        <text id="s212" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="681.264" y="433">SOLD</tspan>
+                        </text>
+                        <text id="s211" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                            <tspan x="691.264" y="513">SOLD</tspan>
+                        </text>
+                    </g>
+                
+                </g>
+            </svg>
+            
+
+            <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bcfb8284ea40898c9_floor2.png" class="img-back" alt="">
+        </div>
+
+
+        <div class="traces">
+            
+            <svg width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g class="flat-traces" id="t_f0" fill-rule="nonzero">
+                        <polygon id="f201" fill-opacity="0.8" fill="#EA1E1E" points="405 366 432.271845 366 458.514563 366 484.757282 366 511 366 511 398.75 511 431.5 511 497 484.757282 497 458.514563 497 432.271845 497 405 497 405 431.5 405 398.75"></polygon>
+                        <polygon id="f202" fill-opacity="0.8" fill="#EA1E1E" points="508 366 535.271845 366 561.514563 366 587.757282 366 614 366 614 398.75 614 431.5 614 497 587.757282 497 561.514563 497 535.271845 497 508 497 508 431.5 508 398.75"></polygon>
+                        <polygon id="f203" fill-opacity="0.8" fill="#EA1E1E" points="405 127 432.271845 127 458.514563 127 484.757282 127 511 127 511 159.75 511 192.5 511 258 484.757282 258 458.514563 258 432.271845 258 405 258 405 192.5 405 159.75"></polygon>
+                        <polygon id="f210" fill-opacity="0.8" fill="#EA1E1E" points="271.738859 119.762793 271.738859 85 295.126214 85 352.563107 85 410 85 410 112 410 139 410 193 352.563107 193 295.126214 193 237.68932 193 178 193 178 139 178 119.762793"></polygon>
+                        <polygon id="f204" fill-opacity="0.8" fill="#EA1E1E" points="508 127 535.271845 127 561.514563 127 587.757282 127 614 127 614 159.75 614 192.5 614 258 587.757282 258 561.514563 258 535.271845 258 508 258 508 192.5 508 159.75"></polygon>
+                        <polygon id="f215" fill-opacity="0.8" fill="#EA1E1E" points="637 189 678.936893 189 719.291262 189 759.645631 189 800 189 800 207 800 225 800 261 759.645631 261 719.291262 261 678.936893 261 637 261 637 225 637 207"></polygon>
+                        <polygon id="f216" fill-opacity="0.8" fill="#EA1E1E" points="637 85 696.946602 85 776.100579 85 776.100579 119.662875 870 119.662875 870 127 870 139 870 193 812.315534 193 754.631068 193 696.946602 193 637 193 637 139 637 112"></polygon>
+                        <polygon id="f214" fill-opacity="0.8" fill="#EA1E1E" points="637 257 678.936893 257 719.291262 257 759.645631 257 800 257 800 275 800 293 800 329 759.645631 329 719.291262 329 678.936893 329 637 329 637 293 637 275"></polygon>
+                        <polygon id="f213" fill-opacity="0.8" fill="#EA1E1E" points="637 325 678.936893 325 719.291262 325 759.645631 325 800 325 800 343 800 361 800 397 759.645631 397 719.291262 397 678.936893 397 637 397 637 361 637 343"></polygon>
+                        <polygon id="f211" fill-opacity="0.8" fill="#EA1E1E" points="637 452.027579 659.23318 452.027579 667.602059 460 812.315534 460 870 460 870 486.75 870 513.5 870 534.303065 776.331937 534.303065 776.631068 567 696.946602 567 637 567 637 513.5 637 486.75"></polygon>
+                        <polygon id="f212" fill-opacity="0.8" fill="#EA1E1E" points="637 392 678.936893 392 719.291262 392 759.645631 392 800 392 800 410 800 428 800 464 759.645631 464 719.291262 464 665.013141 464 657.782589 456.312617 637 456.312617 637 410"></polygon>
+                        <polygon id="f209" fill-opacity="0.8" fill="#EA1E1E" points="219 189 260.936893 189 301.291262 189 341.645631 189 382 189 382 207 382 225 382 261 341.645631 261 301.291262 261 260.936893 261 219 261 219 225 219 207"></polygon>
+                        <polygon id="f208" fill-opacity="0.8" fill="#EA1E1E" points="219 256 260.936893 256 301.291262 256 341.645631 256 382 256 382 274 382 292 382 328 341.645631 328 301.291262 328 260.936893 328 219 328 219 292 219 274"></polygon>
+                        <polygon id="f207" fill-opacity="0.8" fill="#EA1E1E" points="219 324 260.936893 324 301.291262 324 341.645631 324 382 324 382 342 382 360 382 396 341.645631 396 301.291262 396 260.936893 396 219 396 219 360 219 342"></polygon>
+                        <polygon id="f206" fill-opacity="0.8" fill="#EA1E1E" points="219 392 260.936893 392 301.291262 392 341.645631 392 382 392 382 410 382 428 382 464 341.645631 464 301.291262 464 260.936893 464 219 464 219 428 219 410"></polygon>
+                        <polygon id="f205" fill-opacity="0.8" fill="#EA1E1E" points="178 458 237.68932 458 295.126214 458 352.563107 458 410 458 410 485.25 410 512.5 410 567 352.563107 567 295.126214 567 270.68507 567 270.68507 534.717287 178 534.717287 178 485.25"></polygon>
+                        
+                        <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="999" height="696"></rect>
+                    </g>
+                </g>
+            </svg>
+
+        </div>
+
+
+    </div>
+</a>
+
+
+<a href="https://www.edisonvilla.hu/foldszinti-lakasok" id="flr3">
+    <div class="flplan img">
+
+        <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bb4f8d2456206285f_floor3.png" alt="">
+
+
+        <div class="mask">
+            
+                <svg class="img-front" width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    
+                        <g>
+                            <rect id="Rectangle" stroke="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="999" height="696"></rect>
+                            <text id="s316" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="699.264" y="156">SOLD</tspan>
+                            </text>
+                            <text id="s315" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="676.264" y="233">SOLD</tspan>
+                            </text>
+                            <text id="s314" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="676.264" y="302">SOLD</tspan>
+                            </text>
+                            <text id="s313" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="676.264" y="372">SOLD</tspan>
+                            </text>
+                            <text id="s312" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="675.264" y="434">SOLD</tspan>
+                            </text>
+                            <text id="s311" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="695.264" y="514">SOLD</tspan>
+                            </text>
+                            <text id="s302" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="532.264" y="432">SOLD</tspan>
+                            </text>
+                            <text id="s301" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="424.264" y="432">SOLD</tspan>
+                            </text>
+                            <text id="s303" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="424.264" y="212">SOLD</tspan>
+                            </text>
+                            <text id="s304" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="525.264" y="212">SOLD</tspan>
+                            </text>
+                            <text id="s310" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="270.264" y="160">SOLD</tspan>
+                            </text>
+                            <text id="s309" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="270.264" y="234">SOLD</tspan>
+                            </text>
+                            <text id="s308" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="270.264" y="299">SOLD</tspan>
+                            </text>
+                            <text id="s307" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="270.264" y="370">SOLD</tspan>
+                            </text>
+                            <text id="s306" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="270.264" y="438">SOLD</tspan>
+                            </text>
+                            <text id="s305" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" letter-spacing="5" fill="#FFFFFF">
+                                <tspan x="270.264" y="513">SOLD</tspan>
+                            </text>
+                        </g>
+                    
+                    </g>
+                </svg>
+
+
+            <img src="https://uploads-ssl.webflow.com/57d07662904ea6421ee4789e/5ca3a79bb4f8d2456206285f_floor3.png" class="img-back" alt="">
+        </div>
+
+
+        <div class="traces">
+            
+            <svg width="1000px" height="697px" viewBox="0 0 1000 697" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g class="flat-traces" id="t_f0" fill-rule="nonzero">
+                        <polygon id="f306" fill-opacity="0.8" fill="#EA1E1E" points="237 393 274.563107 393 310.708738 393 346.854369 393 383 393 383 411 383 429 383 465 346.854369 465 310.708738 465 274.563107 465 237 465 237 429 237 411"></polygon>
+                        <polygon id="f305" fill-opacity="0.8" fill="#EA1E1E" points="181 459 240.432039 459 297.621359 459 354.81068 459 412 459 412 486 412 513 412 567 354.81068 567 297.621359 567 273.686789 567 273.686789 534.381295 181 534.381295 181 486"></polygon>
+                        <polygon id="f307" fill-opacity="0.8" fill="#EA1E1E" points="237 326 274.563107 326 310.708738 326 346.854369 326 383 326 383 344 383 362 383 398 346.854369 398 310.708738 398 274.563107 398 237 398 237 362 237 344"></polygon>
+                        <polygon id="f308" fill-opacity="0.8" fill="#EA1E1E" points="237 258 274.563107 258 310.708738 258 346.854369 258 383 258 383 276 383 294 383 330 346.854369 330 310.708738 330 274.563107 330 237 330 237 294 237 276"></polygon>
+                        <polygon id="f314" fill-opacity="0.8" fill="#EA1E1E" points="639 258 676.563107 258 712.708738 258 748.854369 258 785 258 785 276 785 294 785 330 748.854369 330 712.708738 330 676.563107 330 639 330 639 294 639 276"></polygon>
+                        <polygon id="f315" fill-opacity="0.8" fill="#EA1E1E" points="639 190 676.563107 190 712.708738 190 748.854369 190 785 190 785 208 785 226 785 262 748.854369 262 712.708738 262 676.563107 262 639 262 639 226 639 208"></polygon>
+                        <polygon id="f313" fill-opacity="0.8" fill="#EA1E1E" points="639 325 676.563107 325 712.708738 325 748.854369 325 785 325 785 343 785 361 785 397 748.854369 397 712.708738 397 676.563107 397 639 397 639 361 639 343"></polygon>
+                        <polygon id="f311" fill-opacity="0.8" fill="#EA1E1E" points="639 452.727827 660.714556 452.727827 669.826016 461.214933 814.315534 460 872 460 872 486.75 872 513.5 872 534.041936 778.239654 534.041936 778.239654 567 698.946602 567 639 567 639 513.5 639 486.75"></polygon>
+                        <polygon id="f312" fill-opacity="0.8" fill="#EA1E1E" points="639 393 676.563107 393 712.708738 393 748.854369 393 785 393 785 411 785 429 785 465 748.854369 465 712.708738 465 667.996508 465 659.97933 456.961294 639 456.961294 639 411"></polygon>
+                        <polygon id="f316" fill-opacity="0.8" fill="#EA1E1E" points="639 88 698.946602 88 778.615318 88 778.615318 121.072662 872 121.072662 872 135 872 142 872 196 814.315534 196 756.631068 196 698.946602 196 639 196 639 142 639 115"></polygon>
+                        <polygon id="f309" fill-opacity="0.8" fill="#EA1E1E" points="237 190 274.563107 190 310.708738 190 346.854369 190 383 190 383 208 383 226 383 262 346.854369 262 310.708738 262 274.563107 262 237 262 237 226 237 208"></polygon>
+                        <polygon id="f310" fill-opacity="0.8" fill="#EA1E1E" points="274.255423 121.017357 274.255423 88 298.126214 88 355.563107 88 413 88 413 114.75 413 141.5 413 195 355.563107 195 298.126214 195 240.68932 195 181 195 181 141.5 181 121.017357"></polygon>
+                        <polygon id="f302" fill-opacity="0.8" fill="#EA1E1E" points="510 367 537.529126 367 564.019417 367 590.509709 367 617 367 617 395.5 617 424 617 481 590.509709 481 564.019417 481 537.529126 481 510 481 510 424 510 395.5"></polygon>
+                        <polygon id="f301" fill-opacity="0.8" fill="#EA1E1E" points="406 367 433.529126 367 460.019417 367 486.509709 367 513 367 513 395.5 513 424 513 481 486.509709 481 460.019417 481 433.529126 481 406 481 406 424 406 395.5"></polygon>
+                        <polygon id="f303" fill-opacity="0.8" fill="#EA1E1E" points="407 145 434.529126 145 461.019417 145 487.509709 145 514 145 514 173.5 514 202 514 259 487.509709 259 461.019417 259 434.529126 259 407 259 407 202 407 173.5"></polygon>
+                        <polygon id="f304" fill-opacity="0.8" fill="#EA1E1E" points="510 145 537.529126 145 564.019417 145 590.509709 145 617 145 617 173.5 617 202 617 259 590.509709 259 564.019417 259 537.529126 259 510 259 510 202 510 173.5"></polygon>
+                        <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="999" height="696"></rect>
+                    
+                    </g>
+                </g>
+            </svg>
+
+        </div>
+
+
+    </div>
+</a>
+
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700');
+.img{
+    position: relative;
+    font-size: 0;
+}
+.img > .traces{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+}
+.img > .traces > svg{
+    width: 100%;
+    height: 100%;
+}
+.flat-traces > polygon{
+    cursor: pointer;
+}
+.flat-traces{
+    opacity: 0;
+}
+
+
+.mask{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 5;
+    transition: all .5s ease;
+    opacity: 0;
+    background-color:transparent;
+
+    -webkit-clip-path: polygon(0px 0px, 0px 0px, 0px 0px, 0px 0px);
+    clip-path: polygon(0px 0px, 0px 0px, 0px 0px, 0px 0px);
+}
+.mask > img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.mask:after{
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: inherit;
+    opacity: .7;
+    z-index: -1;
+}
+.mask > .img-back{
+    z-index: -2;
+}
+.mask > .img-front{
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+}
+
+.flplan.grey .mask{
+    opacity: 1;
+}
+
+.flplan > img{
+    transition: all .3s ease;
+}
+.flplan.grey > img{
+    filter: grayscale(100%);
+}
+
+
+.flplan .mask{
+  background-image: none !important;
+}
+
+.mask > svg tspan{
+    font-size: 18px;
+    letter-spacing: 0;
+}
+</style>
